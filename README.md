@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi I'am Damir!
+iOS developer
 <!--
 **DamirNur/DamirNur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJmNHV3azFveW9pd3YxdmZtMWxia3RtZ2Q0ZTNocTRsM3h4eWs4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJmNHV3azFveW9pd3YxdmZtMWxia3RtZ2Q0ZTNocTRsM3h4eWs4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
 </div>
 
 <div id="badges" align="center">
