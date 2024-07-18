@@ -24,3 +24,5 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/DamirNur?theme=dark&font=Roboto)
