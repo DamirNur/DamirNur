@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![LeetCode Stats](https://leetcard.jacoblin.cool/DamirNur?theme=dark&font=Roboto)
 -->
 
 <div id="header" align="center">
@@ -25,4 +26,4 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/DamirNur?theme=dark&font=Roboto)
+
